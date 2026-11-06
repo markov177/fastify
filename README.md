@@ -1,6 +1,15 @@
 # Fastify + Vercel
 
-This example shows how to use Fastify with Vercel Functions.
+I don't know about you  
+But I'm feeling twenty-two  
+Everything will be alright if  
+You keep me next to you  
+You don't know about me  
+But I'll bet you want to  
+Everything will be alright if  
+We just keep dancing like we're  
+Twenty-two, ooh  
+Twenty-two, ooh  
 
 ## Demo
 
