@@ -32,16 +32,16 @@ const html = `
   <body>
     <h1>Vercel + Fastify Hello World</h1>
     <p>
-I don't know about you
-But I'm feeling twenty-two
-Everything will be alright if
-You keep me next to you
-You don't know about me
-But I'll bet you want to
-Everything will be alright if
-We just keep dancing like we're
-Twenty-two, ooh
-Twenty-two, ooh
+I don't know about you<br>
+But I'm feeling twenty-two<br>
+Everything will be alright if<br>
+You keep me next to you<br>
+You don't know about me<br>
+But I'll bet you want to<br>
+Everything will be alright if<br>
+We just keep dancing like we're<br>
+Twenty-two, ooh<br>
+Twenty-two, ooh<br>
     </p>
     <p>
         For example, here is the boilerplate code for this route:
